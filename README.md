@@ -15,5 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [3783-mirror-distance-of-an-integer](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
