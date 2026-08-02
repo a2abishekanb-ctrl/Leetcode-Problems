@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+## Array
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
