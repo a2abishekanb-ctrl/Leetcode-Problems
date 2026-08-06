@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0709-to-lower-case) |
 ## Two Pointers
