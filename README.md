@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0976-largest-perimeter-triangle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
