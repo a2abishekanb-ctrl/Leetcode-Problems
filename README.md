@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0290-word-pattern) |
+| [1122-relative-sort-array](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Sliding Window
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -132,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
