@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -123,8 +124,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
