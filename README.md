@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0905-sort-array-by-parity](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0290-word-pattern) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
+## Counting
+|  |
+| ------- |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
