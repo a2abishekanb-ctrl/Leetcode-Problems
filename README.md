@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
+| [0806-number-of-lines-to-write-string](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0867-transpose-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0709-to-lower-case) |
+| [0806-number-of-lines-to-write-string](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 ## Two Pointers
 |  |
 | ------- |
