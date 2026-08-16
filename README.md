@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [0812-largest-triangle-area](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
@@ -152,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
