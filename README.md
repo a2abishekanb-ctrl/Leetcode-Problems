@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1122-relative-sort-array) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
