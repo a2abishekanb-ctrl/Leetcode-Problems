@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Linked List
 |  |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
