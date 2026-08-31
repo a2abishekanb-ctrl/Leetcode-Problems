@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
 |  |
 | ------- |
