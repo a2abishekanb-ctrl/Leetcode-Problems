@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0492-construct-the-rectangle) |
+| [0728-self-dividing-numbers](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
