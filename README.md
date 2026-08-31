@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/a2abishekanb-ctrl/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
